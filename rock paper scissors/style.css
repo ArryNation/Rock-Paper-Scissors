@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;  
+}
+
+body {
+    background-color: rgb(22, 186, 145);
+
+}
+
+#heading {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    letter-spacing: 3px;
+    color: white;
+    text-shadow: 10px 10px black;
+}
+
+.header {
+    background-color: rgb(9, 84, 122);
+}
+
+.img1 {
+    margin-left: 38%;
+    margin-top: 3%;
+    margin-top: 5%;
+}
+
+#playAgain {
+    margin-left: 44%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: rgb(221, 250, 5);
+    position: f;
+}
+
+#playAgain:hover {
+  background-color: rgb(72, 250, 235);
+}
+
+.winner {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: -20px;
+    font-size: 50px;;
+}
+
+.Player2 {
+    text-align: right;
+    margin-right: 700px;
+    color: red;
+    margin-top: -20px;
+    
+}
+
+.Player1 {
+    margin-left: 650px;
+    padding-top: 30px;
+    color: red;
+}
